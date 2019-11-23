@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d56bbb5-8b01-48f8-86b6-2457747b4218" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeReview/CodeReview01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeReview/CodeReview01.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CodeReview01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeReview01.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
