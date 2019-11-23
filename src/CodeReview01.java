@@ -47,5 +47,6 @@ public class CodeReview01 {
 
         // (10) create a Java program (.java) that can accept width and height of a rectangular as parameters to main()
         // and displays a solution in console. To do that, do some research on java programs that accept parameters.
+        //-> I don't understand, what's the difference to what I already did so far
     }
 }
